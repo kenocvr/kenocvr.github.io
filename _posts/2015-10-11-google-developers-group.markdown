@@ -1,14 +1,14 @@
 ---
 layout: post
-title:  "Software Engineer"
+title:  "Listen and Learn - Android App"
 date:   2015-10-11 04:34:20
 categories: GDG
 highlight: true
-image: http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG
+image: https://lh3.googleusercontent.com/lZQl3OAOXVeYZLZcBqtaKGu1YvXzR-5JDkkBIkvWmEBtrYOO9w2Zg68P9yimGQhdEfk=w1536-h722-rw
 ---
-Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Donec odio. Quisque volutpat mattis eros. Nullam malesuada erat ut turpis. Suspendisse urna nibh, viverra non, semper suscipit, posuere a, pede.Donec nec justo eget felis facilisis fermentum. Aliquam porttitor mauris sit amet orci.
+Royalty free music for concentration.
 
-![Dev Image](http://4.bp.blogspot.com/-IOD6VutWGlA/UW8Jq05M0DI/AAAAAAAAAeA/OVckWFybKqg/s1600/DSC01317.JPG)
+![Dev Image](https://lh3.googleusercontent.com/lZQl3OAOXVeYZLZcBqtaKGu1YvXzR-5JDkkBIkvWmEBtrYOO9w2Zg68P9yimGQhdEfk=w1536-h722-rw)
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
