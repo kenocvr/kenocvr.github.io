@@ -8,7 +8,7 @@ image: https://lh3.googleusercontent.com/lZQl3OAOXVeYZLZcBqtaKGu1YvXzR-5JDkkBIkv
 ---
 Royalty free music for concentration.
 
-![Dev Image](https://lh3.googleusercontent.com/lZQl3OAOXVeYZLZcBqtaKGu1YvXzR-5JDkkBIkvWmEBtrYOO9w2Zg68P9yimGQhdEfk=w1536-h722-rw =250x)
+![Dev Image](https://lh3.googleusercontent.com/lZQl3OAOXVeYZLZcBqtaKGu1YvXzR-5JDkkBIkvWmEBtrYOO9w2Zg68P9yimGQhdEfk=w1536-h722-rw)
 
 Morbi in sem quis dui placerat ornare. Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu. Cras consequat.
 
