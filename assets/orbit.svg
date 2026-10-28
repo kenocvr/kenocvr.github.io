@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 340" width="900" height="340" role="img" aria-label="Everything orbits plain text">
+<title>Everything orbits plain text</title>
+<defs>
+  <radialGradient id="core"><stop offset="0" stop-color="#c4b5fd"/><stop offset=".6" stop-color="#818cf8"/><stop offset="1" stop-color="#4f46e5"/></radialGradient>
+  <radialGradient id="halo"><stop offset="0" stop-color="#818cf8" stop-opacity=".45"/><stop offset="1" stop-color="#818cf8" stop-opacity="0"/></radialGradient>
+</defs>
+<style>
+  .spin { transform-origin: 640px 170px; animation: spin linear infinite; }
+  .counter { animation: spin linear infinite reverse; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+  .halo { transform-box: fill-box; transform-origin: center; animation: breathe 3.2s ease-in-out infinite; }
+  @keyframes breathe { 50% { transform: scale(1.18); opacity: .6; } }
+  .pl { font: 600 12px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #e2e8f0; }
+  .h { font: 800 34px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #f1f5f9; letter-spacing: -1px; }
+  .p { font: 500 15px ui-sans-serif, -apple-system, 'Segoe UI', Helvetica, Arial, sans-serif; fill: #94a3b8; }
+  .core { font: 800 20px ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; fill: #0b1222; }
+</style>
+<rect width="900" height="340" rx="20" fill="#0b1222"/>
+<text x="48" y="140" class="h">Everything orbits</text>
+<text x="48" y="180" class="h" fill="#c4b5fd" style="fill:#c4b5fd">plain text.</text>
+<text x="48" y="218" class="p">One .md file, rendered into diagrams, maps,</text>
+<text x="48" y="240" class="p">3D models, math, and motion.</text>
+<circle class="halo" cx="640" cy="170" r="70" fill="url(#halo)"/>
+<circle cx="640" cy="170" r="30" fill="url(#core)"/>
+<text x="640" y="177" text-anchor="middle" class="core">MD</text>
+<circle cx="640" cy="170" r="74" fill="none" stroke="#ffffff1a" stroke-dasharray="2 6"/>
+  <g class="spin" style="animation-duration:14s;animation-delay:0.00s">
+    <g class="counter" style="animation-duration:14s;animation-delay:0.00s;transform-origin:714px 170px">
+      <circle cx="714" cy="170" r="6" fill="#818cf8"/>
+      <rect x="724" y="159" width="74" height="22" rx="11" fill="#111a2e" stroke="#818cf8" stroke-opacity=".6"/>
+      <text x="761" y="174" text-anchor="middle" class="pl">Mermaid</text>
+    </g>
+  </g><circle cx="640" cy="170" r="116" fill="none" stroke="#ffffff1a" stroke-dasharray="2 6"/>
+  <g class="spin" style="animation-duration:24s;animation-delay:-2.67s">
+    <g class="counter" style="animation-duration:24s;animation-delay:-2.67s;transform-origin:756px 170px">
+      <circle cx="756" cy="170" r="6" fill="#f472b6"/>
+      <rect x="766" y="159" width="44" height="22" rx="11" fill="#111a2e" stroke="#f472b6" stroke-opacity=".6"/>
+      <text x="788" y="174" text-anchor="middle" class="pl">SVG</text>
+    </g>
+  </g>
+  <g class="spin" style="animation-duration:24s;animation-delay:-14.67s">
+    <g class="counter" style="animation-duration:24s;animation-delay:-14.67s;transform-origin:756px 170px">
+      <circle cx="756" cy="170" r="6" fill="#4ade80"/>
+      <rect x="766" y="159" width="74" height="22" rx="11" fill="#111a2e" stroke="#4ade80" stroke-opacity=".6"/>
+      <text x="803" y="174" text-anchor="middle" class="pl">GeoJSON</text>
+    </g>
+  </g><circle cx="640" cy="170" r="156" fill="none" stroke="#ffffff1a" stroke-dasharray="2 6"/>
+  <g class="spin" style="animation-duration:36s;animation-delay:-10.00s">
+    <g class="counter" style="animation-duration:36s;animation-delay:-10.00s;transform-origin:796px 170px">
+      <circle cx="796" cy="170" r="6" fill="#60a5fa"/>
+      <rect x="806" y="159" width="44" height="22" rx="11" fill="#111a2e" stroke="#60a5fa" stroke-opacity=".6"/>
+      <text x="828" y="174" text-anchor="middle" class="pl">STL</text>
+    </g>
+  </g>
+  <g class="spin" style="animation-duration:36s;animation-delay:-22.00s">
+    <g class="counter" style="animation-duration:36s;animation-delay:-22.00s;transform-origin:796px 170px">
+      <circle cx="796" cy="170" r="6" fill="#fb923c"/>
+      <rect x="806" y="159" width="59" height="22" rx="11" fill="#111a2e" stroke="#fb923c" stroke-opacity=".6"/>
+      <text x="836" y="174" text-anchor="middle" class="pl">LaTeX</text>
+    </g>
+  </g>
+  <g class="spin" style="animation-duration:36s;animation-delay:-34.00s">
+    <g class="counter" style="animation-duration:36s;animation-delay:-34.00s;transform-origin:796px 170px">
+      <circle cx="796" cy="170" r="6" fill="#a78bfa"/>
+      <rect x="806" y="159" width="74" height="22" rx="11" fill="#111a2e" stroke="#a78bfa" stroke-opacity=".6"/>
+      <text x="843" y="174" text-anchor="middle" class="pl">details</text>
+    </g>
+  </g>
+</svg>
